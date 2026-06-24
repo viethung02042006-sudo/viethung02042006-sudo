@@ -94,6 +94,7 @@ A passionate and detail-oriented Computer Science student with a strong foundati
 ## 🤝 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/#" target="_blank">
+   
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:viethung02042006@gmail.com">
